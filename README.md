@@ -1,5 +1,6 @@
 # IOT-SmartFarm
 IOT enabled Smart Farm
-The purpose of this documents are to adduce a detailed description of the designs of the IoT Enabled Smart Farming System which is going to be created for remote controlling agricultural lands.Lastly, this documents could be used for designers who try to upgrade or modify the present design of the smart farming system.
-
-The system was implemented using jsp and arduino. 
+This project aims at developing an IOT Enabled Smart Farming System to control moisture of the soil remotely. We have a limited time period to design, implement and test our system and it is actually a very big challenge. Therefore, we have decided to design the system only for controlling the moisture condition of the agriculture land via a web application.
+We are planning to invent a smart device which can be established in the agricultural land to collect the details soil moisture, temperature and humidity of the land. The device consists of sensors and other required components to measure the moisture, temperature and humidity of the land and inform the user. Then the owner of the farming land can review the condition of the land and supply enough water to the land.
+It is very easy as the farmer does not need to visit his or her farming land frequently. But the owner is capable of controlling the moisture level remotely just through connecting to the web. It just need to have a Wi-Fi connection to get required current condition of the farming land and control it remotely.
+Prototype of the project was implemented using Arduino and Java Servlets.
